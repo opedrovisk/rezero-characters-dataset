@@ -16,7 +16,7 @@ os scripts de coleta e tratamento e os arquivos CSV resultantes.
 | `characters.csv` | 342 | Uma linha por personagem: campos da infobox + textos principais do artigo |
 | `character_sections.csv` | 1.319 | Formato longo: uma linha por seção de artigo (`page_id`, `name`, `section`, `text`) |
 
-- Coleta feita em **02/10/2026**.
+- Coleta feita em **01/10/2026**.
 - Os valores estão como aparecem no wiki (texto livre, sem normalização). Campos com vários
   itens usam ` ; ` como separador.
 - Colunas bem preenchidas: `race` (340/342), `status` (339), `gender` (338), `appearance` (328),
