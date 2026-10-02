@@ -91,10 +91,13 @@ coletadas 437 páginas e 342 delas são personagens.
 - [ ] Grafo de relações opcional, construído a partir de `linked_pages`
 
 ## Licença e atribuição
-
+ 
 - **Dados:** o texto vem do [Re:Zero Wiki](https://rezero.fandom.com) e está disponível sob a
   licença [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Os arquivos CSV são
   redistribuídos sob a mesma licença, com atribuição ao Re:Zero Wiki e aos seus colaboradores.
   Os autores de cada página estão no histórico de edições (link na coluna `url`).
   Imagens não estão incluídas.
+  **Alterações:** o conteúdo foi modificado em relação ao original. O texto foi extraído pela API do
+  MediaWiki, limpo (marcações wiki, notas de rodapé e caixas de navegação removidas) e reorganizado
+  em tabelas CSV.
 - **Código:** distribuído sob a [Licença MIT](LICENSE).
